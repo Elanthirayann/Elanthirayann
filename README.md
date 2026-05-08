@@ -2,7 +2,7 @@
 
 ### AI Engineer | Building intelligent systems with LLMs, Agents & RAG
 
-I'm an AI Engineer intern at a startup, focused on building real-world AI applications using modern GenAI tools and frameworks. I love turning ideas into working AI systems.
+I'm an AI Engineer, focused on building real-world AI applications using modern GenAI tools and frameworks. I love turning ideas into working AI systems.
 
 ---
 
