@@ -43,8 +43,7 @@ I'm an AI Engineer intern at a startup, focused on building real-world AI applic
 
 ## 📊 GitHub Stats
 
-![Elanthirayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elanthirayann&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elanthirayann&layout=compact&theme=tokyonight&hide_border=true)
+![Elanthirayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elanthirayann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
